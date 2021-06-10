@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2695-8A70
+
+ Directory of C:\Users\tatiksr\GPSO
+
+06/10/2021  05:38 PM    <DIR>          .
+06/10/2021  05:38 PM    <DIR>          ..
+06/10/2021  05:38 PM                 0 featuretext.txt
+06/10/2021  05:27 PM                11 README.md
+               2 File(s)             11 bytes
+               2 Dir(s)  92,800,901,120 bytes free
