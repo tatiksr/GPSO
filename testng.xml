@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Suite" parallel="classes" thread-count="1">
+
+	<test thread-count="1" name="GPSO">
+		<parameter name="browser" value="Edge"></parameter>
+		<classes>
+			   
+			
+
+			<!-- <class name="GPSOTest.GPSOT_732" /> -->
+			<!-- <class name="GPSOTest.GPSOT_735" /> -->
+			<!-- <class name="GPSOTest.GPSOT_799" /> -->
+			<!-- <class name="GPSOTest.GPSOT_820" /> -->
+			<!-- <class name="GPSOTest.GPSOT_841" /> -->
+			<!-- <class name="GPSOTest.GPSOT_1107" /> -->
+			
+			
+			
+			
+			
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="classes">
+  <test name="GPSO(failed)" parallel="classes">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="GPSOTest.GPSOT_19_20">
+        <methods>
+          <include name="closeApp"/>
+          <include name="afterSuite"/>
+          <include name="GPSOT_19_20_Test" invocation-numbers="0"/>
+          <include name="beforeSuite"/>
+          <include name="login"/>
+          <include name="setData"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- GPSOTest.GPSOT_19_20 -->
+    </classes>
+  </test> <!-- GPSO(failed) -->
+</suite> <!-- Failed suite [Suite] -->
