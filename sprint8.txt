@@ -1,0 +1,31 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2695-8A70
+
+ Directory of C:\Users\tatiksr\Automation\Sprint8
+
+06/25/2021  07:40 PM    <DIR>          .
+06/25/2021  07:40 PM    <DIR>          ..
+02/25/2021  08:25 PM             1,168 .classpath
+02/25/2021  08:25 PM               562 .project
+06/25/2021  07:14 PM    <DIR>          .settings
+02/25/2021  08:25 PM               223 batfile
+06/25/2021  07:14 PM    <DIR>          Completed Results
+06/25/2021  07:14 PM    <DIR>          config
+06/25/2021  07:14 PM    <DIR>          data
+02/25/2021  08:25 PM            84,011 debug.log
+02/25/2021  08:25 PM           743,899 Doc1.docx
+06/25/2021  07:14 PM    <DIR>          drivers
+06/25/2021  07:14 PM    <DIR>          lib
+02/25/2021  08:25 PM           217,909 path of the file
+02/25/2021  08:25 PM             4,263 pom.xml
+06/25/2021  07:14 PM    <DIR>          reports
+06/25/2021  07:14 PM    <DIR>          snaps
+06/25/2021  07:40 PM                 0 sprint8.txt
+06/25/2021  07:14 PM    <DIR>          src
+02/25/2021  08:25 PM                52 stringsample.bat
+06/25/2021  07:14 PM    <DIR>          target
+06/25/2021  07:14 PM    <DIR>          test-output
+02/25/2021  08:25 PM                 0 testng.out.xml
+04/23/2021  05:16 PM               641 testng.xml
+              11 File(s)      1,052,728 bytes
+              13 Dir(s)  88,471,568,384 bytes free
